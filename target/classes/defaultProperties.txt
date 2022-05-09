@@ -1,0 +1,2 @@
+url1 = https://api.bsmsa.eu/ext/api/bsm/gbfs/v2/en/station_information
+url2 = https://api.bsmsa.eu/ext/api/bsm/gbfs/v2/en/station_status
